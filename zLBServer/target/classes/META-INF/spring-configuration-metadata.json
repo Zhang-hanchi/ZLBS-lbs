@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "lbs",
+      "type": "com.example.zlbserver.config.LBSProperties",
+      "sourceType": "com.example.zlbserver.config.LBSProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "lbs.policy",
+      "type": "java.lang.String",
+      "sourceType": "com.example.zlbserver.config.LBSProperties"
+    },
+    {
+      "name": "lbs.servers",
+      "type": "java.lang.String",
+      "sourceType": "com.example.zlbserver.config.LBSProperties"
+    }
+  ],
+  "hints": []
+}
