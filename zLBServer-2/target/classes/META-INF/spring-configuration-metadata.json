@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "lbs",
+      "type": "com.zhc.zlbserver2.config.LBSProperties",
+      "sourceType": "com.zhc.zlbserver2.config.LBSProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "lbs.policy",
+      "type": "java.lang.String",
+      "sourceType": "com.zhc.zlbserver2.config.LBSProperties"
+    },
+    {
+      "name": "lbs.servers",
+      "type": "java.lang.String",
+      "sourceType": "com.zhc.zlbserver2.config.LBSProperties"
+    }
+  ],
+  "hints": []
+}
